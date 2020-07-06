@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/money-3-website/static/css/main.339b420b.chunk.css",
+    "main.js": "/money-3-website/static/js/main.fd8b8c70.chunk.js",
+    "main.js.map": "/money-3-website/static/js/main.fd8b8c70.chunk.js.map",
+    "runtime-main.js": "/money-3-website/static/js/runtime-main.4550430e.js",
+    "runtime-main.js.map": "/money-3-website/static/js/runtime-main.4550430e.js.map",
+    "static/js/2.3be711f2.chunk.js": "/money-3-website/static/js/2.3be711f2.chunk.js",
+    "static/js/2.3be711f2.chunk.js.map": "/money-3-website/static/js/2.3be711f2.chunk.js.map",
+    "index.html": "/money-3-website/index.html",
+    "precache-manifest.ac79cb7a72548dc90d948b0a84294ff2.js": "/money-3-website/precache-manifest.ac79cb7a72548dc90d948b0a84294ff2.js",
+    "service-worker.js": "/money-3-website/service-worker.js",
+    "static/css/main.339b420b.chunk.css.map": "/money-3-website/static/css/main.339b420b.chunk.css.map",
+    "static/js/2.3be711f2.chunk.js.LICENSE.txt": "/money-3-website/static/js/2.3be711f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4550430e.js",
+    "static/js/2.3be711f2.chunk.js",
+    "static/css/main.339b420b.chunk.css",
+    "static/js/main.fd8b8c70.chunk.js"
+  ]
+}
